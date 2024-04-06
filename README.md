@@ -4,10 +4,14 @@
 
 ## 使用方法
 1.将“myobsidian.exe”文件保存到您希望的地方
+
 2. 右键点击“Register MyObsidian.reg”，选择“编辑”
-3. 修改最后一行"\"path\\myobsidian.exe\" \"%1\""中“path\\myobsidian.exe\”，把它改为您保存myobsidian.exe的位置，路径中“\”使用“\\”
-4. 双击“Register MyObsidian.reg”，添加进注册表
-5. OK！可以使用了，试试吧。在Obsidian链接前面加上“my”，即：原本的obsidian://advanced-uri?vault=Obsidian&uid=690e32dd-fac6-4b41-a154-9810ddb045d9，改为“myobsidian://advanced-uri?vault=Obsidian&uid=690e32dd-fac6-4b41-a154-9810ddb045d9”
+3. 
+4. 修改最后一行"\"path\\myobsidian.exe\" \"%1\""中“path\\myobsidian.exe\”，把它改为您保存myobsidian.exe的位置，路径中“\”使用“\\”
+5. 
+6. 双击“Register MyObsidian.reg”，添加进注册表
+7. 
+8. OK！可以使用了，试试吧。在Obsidian链接前面加上“my”，即：原本的obsidian://advanced-uri?vault=Obsidian&uid=690e32dd-fac6-4b41-a154-9810ddb045d9，改为“myobsidian://advanced-uri?vault=Obsidian&uid=690e32dd-fac6-4b41-a154-9810ddb045d9”
 
 ## 注意的前提
 1. windows系统
