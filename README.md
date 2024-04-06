@@ -4,6 +4,7 @@
 
 ## 使用方法
 1.将“myobsidian.exe”文件保存到您希望的地方
+
 2. 右键点击“Register MyObsidian.reg”，选择“编辑”
 3. 修改最后一行"\"path\\myobsidian.exe\" \"%1\""中“path\\myobsidian.exe\”，把它改为您保存myobsidian.exe的位置，路径中“\”使用“\\”
 4. 双击“Register MyObsidian.reg”，添加进注册表
@@ -21,3 +22,9 @@
   2. 输入快捷键，唤醒Obsidian窗口
 
 ## 源码附上
+1.编译时用Python自带的也可以，但运行速度会略慢：pyinstaller --noconsole --onefile myobsidian.py
+
+2.也可以用nuitka，体积小了一点点，速度略快（前面提供的是这个版本）：
+pip install nuitka
+python -m nuitka --onefile --windows-disable-console --output-dir=build myobsidian.py
+生成build文件夹，exe在这个目录下
