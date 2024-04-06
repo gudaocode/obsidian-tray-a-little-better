@@ -1,5 +1,5 @@
 # obsidian-tray-a-little-better
-尝试解决obsidian-tray插件启用后，从Obsidian外点击url链接时，无法唤醒Obsidian窗口的问题。
+尝试解决[obsidian-tray插件]([url](https://github.com/dragonwocky/obsidian-tray))启用后，从Obsidian外点击url链接时，无法唤醒Obsidian窗口的问题。
 限Windows系统
 
 ## 使用方法
