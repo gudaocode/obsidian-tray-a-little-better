@@ -3,8 +3,7 @@
 限Windows系统
 
 ## 使用方法
-1.将“myobsidian.exe”文件保存到您希望的地方
-
+1. 将“myobsidian.exe”文件保存到您希望的地方
 2. 右键点击“Register MyObsidian.reg”，选择“编辑”
 3. 修改最后一行"\"path\\myobsidian.exe\" \"%1\""中“path\\myobsidian.exe\”，把它改为您保存myobsidian.exe的位置，路径中“\”使用“\\”
 4. 双击“Register MyObsidian.reg”，添加进注册表
