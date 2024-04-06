@@ -21,6 +21,9 @@
   2. 输入快捷键，唤醒Obsidian窗口
 
 ## 源码附上
+py代码需要装对应的库（用于调用快捷键）：
+pip install pynput
+
 1.编译时用Python自带的也可以，但运行速度会略慢：pyinstaller --noconsole --onefile myobsidian.py
 
 2.也可以用nuitka，体积小了一点点，速度略快（前面提供的是这个版本）：
