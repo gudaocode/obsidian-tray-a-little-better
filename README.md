@@ -2,7 +2,7 @@
 Attempting to resolve the issue where, after enabling the [obsidian-tray plugin](https://github.com/dragonwocky/obsidian-tray), clicking on URL links from outside of Obsidian does not wake up the Obsidian window.
 Limited to the Windows system.
 
-尝试解决[obsidian-tray插件](https://github.com/dragonwocky/obsidian-tray)启用后，从Obsidian外点击url链接时，无法唤醒Obsidian窗口的问题。
+解决[obsidian-tray插件](https://github.com/dragonwocky/obsidian-tray)启用后，从Obsidian外点击url链接时，无法唤醒Obsidian窗口的问题。
 限Windows系统
 
 ---
